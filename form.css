@@ -1,0 +1,69 @@
+
+
+*{
+ 
+  padding: 0;
+margin: 0;
+
+}
+
+body{ display: flex;
+justify-content: center;
+
+
+background-color:  rgb(36, 120, 131) ;
+margin: 50px;
+}
+
+
+.cont {
+    border: 1px  solid white;
+    padding: 100px;
+    border-radius: 4px;
+background-color: #fff;
+
+
+
+}
+
+#form{
+    width: 100%;
+
+
+}
+#form h1 {
+color: black;
+text-align: center;
+
+}
+#form button {
+    padding: 10px;
+    margin-top: 10px;
+    width: 80px;
+color: aliceblue;
+background-color:dodgerblue;
+border: none;
+border-radius: 4px;
+
+
+}
+.input-control {
+display: flex;
+flex-direction: column;
+}
+
+input{
+border: none;
+border-bottom: 2px solid ;
+
+margin-top: 10px;
+
+
+}
+
+#test {
+
+
+
+margin-bottom: 50%;
+}
